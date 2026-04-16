@@ -1,0 +1,6 @@
+{
+  "name": "気象庁一次細分区域地図",
+  "description": "気象庁の一次細分区域を表示する地図アプリケーション",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
